@@ -1,1 +1,3 @@
-# CKAT_recommendation_system_model
+# The knowledge-aware graph attention network (CKAT) recommendation model
+
+Will be available soon ...
